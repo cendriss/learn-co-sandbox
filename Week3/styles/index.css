@@ -1,0 +1,29 @@
+header {
+  background: green;
+  width: 50%;
+  min-width: 400px;
+  position: absolute;
+  top: 0;
+  left:0;
+}
+
+nav {
+  background: purple;
+}
+article {
+  background:orange;
+  float:left;
+}
+aside {
+  background:blue;
+  float: left;
+}
+footer {
+  clear:both;
+}
+.header-container {
+  width:300px;
+  background: pink;
+  position:relative;
+  
+}
